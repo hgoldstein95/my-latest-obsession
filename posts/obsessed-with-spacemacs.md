@@ -4,7 +4,7 @@ When I first started programming, my teacher forced us to write our code in
 Windows notepad. Not even notepad++. Notepad. Looking back, I suppose I
 understand his rationale; if we learned to write code with all of the assistance
 that an IDE provides, we wouldn't understand what is actually going on.
-(Clicking "Run Code" is a whole lot different from typing `javac` at the command
+(Clicking "Run" is a whole lot different from typing `javac` at the command
 line, and I'm glad that I started off with that deeper understanding.) By the
 time that I was headed to college, I understood that I could be a programmer
 even without the bells and whistles of IDEs and code editors.
@@ -56,5 +56,5 @@ string of characters. For example, `SPC f s` saves the current buffer, and `SPC
 g s` displays an interactive window with Git status information. In keeping with
 Vim's philosophy, these bindings all all mnemonic; "f s" corresponds to "file,
 save", "g s" for "git, status", etc. It was shocking how quick it was to get
-used to, and before I knew it I had written a couple thousand lines of code
-and this blog post in spacemacs.
+used to, and before I knew it I had written a couple thousand lines of code and
+this blog post in spacemacs.

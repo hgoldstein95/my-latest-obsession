@@ -5,9 +5,9 @@
 }
 
 body {
-    max-width: 640px;
-    margin: 70px auto 50px auto;
-    font-size: 20px;
+    max-width: 800px;
+    margin: 80px auto;
+    font-size: 1.2em;
     font-family: "Oxygen", sans-serif;
     line-height: 1.5em;
 }
@@ -21,4 +21,9 @@ code {
     background: rgba(0, 0, 0, 0.05);
     padding: 0 3px;
     border-radius: 3px;
+}
+
+a {
+    color: #00bfff;
+    text-decoration: none;
 }
